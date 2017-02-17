@@ -1,0 +1,26 @@
+* using log directory '/Users/praveenc/projects/r-message-queue/pkg/messageQueue.Rcheck'
+* using R version 3.3.2 (2016-10-31)
+* using platform: x86_64-apple-darwin13.4.0 (64-bit)
+* using session charset: ASCII
+* checking for file 'messageQueue/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'messageQueue' version '0.5.1'
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package 'messageQueue' can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... ERROR
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+* DONE
+Status: 1 ERROR

@@ -1,0 +1,14 @@
+messageQueue-package    Allow R to put and get messages from message
+                        queues (activeMQ, rabbitMQ)
+messageQueue.consumer.close
+                        Close a consumer of a queue
+messageQueue.consumer.getNextText
+                        Retrieve the next available text message
+messageQueue.factory.getConsumerFor
+                        Connect to a queue for reading
+messageQueue.factory.getProducerFor
+                        Connect to a queue for writing
+messageQueue.producer.close
+                        Close a producer of a queue
+messageQueue.producer.putText
+                        Put a text message on a queue

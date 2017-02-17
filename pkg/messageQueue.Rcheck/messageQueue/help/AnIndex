@@ -1,0 +1,8 @@
+messageQueue-package	messageQueue-package
+messageQueue	messageQueue-package
+messageQueue.consumer.close	messageQueue.consumer.close
+messageQueue.consumer.getNextText	messageQueue.consumer.getNextText
+messageQueue.factory.getConsumerFor	messageQueue.factory.getConsumerFor
+messageQueue.factory.getProducerFor	messageQueue.factory.getProducerFor
+messageQueue.producer.close	messageQueue.producer.close
+messageQueue.producer.putText	messageQueue.producer.putText
